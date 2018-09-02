@@ -9,7 +9,7 @@ Every Neocities site has a Site Profile. This is located at `https://neocities.o
 Your Site Profile shows:
   - A screenshot and link to your site
   - Links to edit, follow, or share the site
-  - Website Statistics (views, followers, updates, tips, updated & created dates) and an additional link to your Stats page
+  - Website Stats (views, followers, updates, tips, updated & created dates) and an additional link to your Stats page
   - Followed and following sites
   - The Tags your site is associated with (which you can add and remove at will, up to 5)
   - Your feed
