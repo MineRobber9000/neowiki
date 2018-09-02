@@ -1,0 +1,12 @@
+{% extends "article.html" %}
+{% block title %}{% endblock %}{# remove article title bit #}
+{% block body %}
+<h1>neowiki</h1>
+<h2>a neocities wiki</h2>
+<hr>
+<p>neowiki is a wiki for neocities users by neocities users!</p>
+<h3>Articles</h3>
+<ul>{% for article in articles %}
+<li><a href="{{article[0]}}.html">{{article[1].title}}</a></li>
+{% endfor %}</ul>
+{% endblock %}
