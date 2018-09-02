@@ -1,2 +1,2 @@
 # neowiki
-A Neocities wiki. Better than Penny's Pages!
+A Neocities wiki.
