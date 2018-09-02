@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>neowiki | {{ article.title }}<title>
+</head>
+<body>{% block body %}
+<h1>{{ article.title }}</h1>
+<h2>a neowiki article by <a href="//{{ article.author }}.neocities.org">{{ article.author }}</a></h2>
+<hr>
+{{ article.content | markdown }}
+{% endblock %}</body>
+</html>
