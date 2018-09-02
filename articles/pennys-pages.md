@@ -3,8 +3,6 @@ author: minerobber
 published: true
 title: Penny's Pages
 description: The other neocities wiki
-category: 
-    - main
 ---
 
 # Penny's Pages
