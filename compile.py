@@ -16,6 +16,6 @@ articles = [[os.path.splitext(x)[0],frontmatter.load("articles/"+x)] for x in ar
 for article in articles:
 	if article[1]["published"]:
 		with open("build/"+article[0]+".html","w") as f:
-			f.write(temp.render(article=article[1]))
+			f.write(temp.render(article=article[1], filename=article[0]))
 with open("build/index.html","w") as f:
 	f.write(env.get_template("mainpage.html").render(articles=articles))
