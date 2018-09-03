@@ -3,6 +3,14 @@
 <head>
 <title>neowiki{% block title %} | {{ article.title }}{% endblock %}</title>
 <link href="style.css" rel="stylesheet">
+
+<meta property='og:type' content='website'>
+<meta property='og:image' content='https://tilde.team/apple-icon.png'>
+<meta property='og:site_name' content='neowiki'>
+<meta property='og:title' content='{% block ogptitle %}{{ article.title }} | neowiki{% endblock %}'>
+<meta property='og:url' content='https://minerobber.neocities.org/neowiki/{% block ogpurl %}{{ filename }}.html{% endblock %}'>
+<meta property='og:description' content='{% block ogpdesc %}{{ article.description }}{% endblock %}'>
+
 </head>
 <body>{% block body %}
 <h1>{{ article.title }}</h1>
