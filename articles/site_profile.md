@@ -7,12 +7,15 @@ description: Your website's presence on Neocities
 
 Every Neocities site has a Site Profile. This is located at `https://neocities.org/site/(username)`.
 Your Site Profile shows:
-  - A screenshot and link to your site
-  - Links to edit, follow, or share the site
-  - Website Stats (views, followers, updates, tips, updated & created dates) and an additional link to your Stats page
-  - Followed and following sites
-  - The Tags your site is associated with (which you can add and remove at will, up to 5)
-  - Your feed
+<ul>
+  <li>A screenshot and link to your site</li>
+  <li>Links to edit, follow, or share the site</li>
+  <li>Website Stats (views, followers, updates, tips, updated & created dates) and an additional link to your Stats page</li>
+  <li>Followed and following sites</li>
+  <li>The Tags your site is associated with (which you can add and remove at will, up to 5)</li>
+  <li>Your feed</li>
+</ul>
+
 ## Your Feed
 Your feed is updated whenever you make a change to your site (specifically, HTML files, other files are ignored in this case). If you've already updated your site in a 24-hour time span, the change you've made will be part of that last update.
 
