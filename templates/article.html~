@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>neowiki{% block title %} | {{ article.title }}{% endblock %}</title>
+<link href="style.css" rel="stylesheet">
+</head>
+<body>{% block body %}
+<h1>{{ article.title }}</h1>
+<h2>a neowiki article by <a href="//{{ article.author }}.neocities.org">{{ article.author }}</a><sub><a href="https://github.com/MineRobber9000/neowiki/blob/master/articles/{{ filename  }}.md">Edit this page</a></h2>
+<hr>
+{{ article.content | markdown }}
+{% endblock %}</body>
+</html>
