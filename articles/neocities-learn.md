@@ -1,5 +1,5 @@
 ---
-author: ele
+author: elementz
 published: true
 title: Neocities Learning
 description: Learn HTML, CSS, as well as CSS Frameworks on Neocities!
@@ -18,7 +18,7 @@ There are frameworks to learn, likee:
   - Min
   
 ## Tutorials
-Neocities has their own crash course featuring Penelope the Cat. There are 10 parts, covering from putting text on a page, to making links.
+Neocities has their own crash course featuring Penelope the Cat. There are 10 parts, covering from putting text on a page, to making links. [Click here to redirect to the tutorials.](https://neocities.org/tutorial/html/1)
 
 Regarding other things, there are resources that allow you to learn them. Neocities currently does not have a tutorial for these.
 
