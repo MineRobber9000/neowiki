@@ -18,8 +18,7 @@ want to fork the wiki) and wait for it to finish. Then, [clone your fork](https:
 
 ## Step 2. Write the article
 
-Our writing style is [similar to the one for Penny's Place](https://thewikion.neocities.org/wiki/meta_style.html), with the change that ISO-8601 dates are used when abbreviated and
-in American style when written out. (i.e; "2018-09-02" in a date code and "September 2nd, 2018" when written out)
+Our writing style guide is [here](style-guide.html).
 
 Copy the template article (articles/template.md) and pick a good filename for your article. (For example, this article's filename
 is "writing-for-neowiki.md".) Be unique enough that another article can't collide with your use of the filename.
