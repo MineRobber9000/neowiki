@@ -12,7 +12,8 @@
 <meta property='og:description' content='{% block ogpdesc %}{{ article.description }}{% endblock %}'>
 
 </head>
-<body>{% block body %}
+<body>
+<img src="logo.png">{% block body %}
 <h1>{{ article.title }}</h1>
 <h2>a neowiki article by <a href="//{{ article.author }}.neocities.org">{{ article.author }}</a></h2>
 <p><a target="_blank" href="https://github.com/MineRobber9000/neowiki/edit/master/articles/{{ filename  }}.md">Edit this page</a></p>
