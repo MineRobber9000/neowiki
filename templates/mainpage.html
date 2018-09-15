@@ -9,6 +9,6 @@
 <p>neowiki is a wiki for neocities users by neocities users!</p>
 <h3>Articles</h3>
 <ul>{% for article in articles %}{% if article[1].published %}
-<li><a href="{{article[0]}}.html">{{article[1].title}}</a> - <a href="//{{ article[1].author }}.neocities.org">{{ article[1].author }}</a></li>
+<li><a href="{{article[0]}}.html">{{article[1].title}}</a></li>
 {% endif %}{% endfor %}</ul>
 {% endblock %}
