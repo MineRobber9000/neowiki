@@ -1,8 +1,20 @@
 * {
-	background-color: #041894;
-	color: #FFA137;
+	background-color: #53c399;
+	color: black;
 }
 
-a, a:visited, a:hover {
-	color: #FFC637;
+div, div * {
+	background-color: white;
+}
+
+div {
+	max-width: 50%;
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+li {
+	text-align: left;
 }
