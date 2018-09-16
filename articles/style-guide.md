@@ -1,5 +1,4 @@
 ---
-author: minerobber
 published: true
 title: Style Guide
 description: A style guide

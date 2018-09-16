@@ -1,5 +1,4 @@
 ---
-author: minerobber
 published: true
 title: Writing for neowiki
 description: A small tutorial on how to write for neowiki.

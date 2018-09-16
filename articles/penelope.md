@@ -1,5 +1,4 @@
 ---
-author: yoshi295295
 published: false
 title: Penelope the Cat
 description: The official Neocities mascot.

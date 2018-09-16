@@ -1,5 +1,4 @@
 ---
-author: elementz
 published: true
 title: Neocities Learning
 description: Learn HTML, CSS, as well as CSS Frameworks on Neocities!

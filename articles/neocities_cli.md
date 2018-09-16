@@ -1,5 +1,4 @@
 ---
-author: dotcomboom
 published: true
 title: Neocities CLI
 description: Neocities' command line interface.

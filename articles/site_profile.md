@@ -1,5 +1,4 @@
 ---
-author: dotcomboom
 published: true
 title: Site Profile
 description: Your website's presence on Neocities
