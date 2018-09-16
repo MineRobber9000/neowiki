@@ -7,10 +7,10 @@ install:
   - sudo gem install neocities
   - sudo pip3 install -r requirements.txt
   - mkdir -p $HOME/.config/neocities
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then; echo $APIKEY > $HOME/.config/neocities/config; fi
+  - echo $APIKEY > $HOME/.config/neocities/config
 script:
   - make
-  - if [ "$TRAVIS_BRANCH" == "master" ]; then; neocities push build; fi
+  - neocities push build
 addons:
   apt:
     packages:
