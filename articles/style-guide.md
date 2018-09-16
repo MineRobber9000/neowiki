@@ -40,13 +40,9 @@ For people, unless they have a person page on neowiki, you should link their neo
 ## People
 
 Don't reference people by full real name, even if you know it. Also, don't bring up facts about people that aren't relevant to the article topic.
-
 Use gender neutral pronouns. (they/them/etc.)
-
 Only write about what people do in the sphere of Neocities and Neocities-related projects, unless it's relevant to the article topic.
-
 You are allowed to write about yourself. (Though that may seem narcissistic.)
-
 Until I ([minerobber](//minerobber.neocities.org)) implement categories (or anyone else implements categories, this is an open wiki after all), please start
 the filenames of articles on people with `people-`. For example, an article on Kyle Drake would be named `people-kyledrake.md`. Once categories are implemented,
 those may be used instead.
