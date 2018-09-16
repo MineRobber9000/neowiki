@@ -23,7 +23,7 @@ if not os.path.exists("build"):
 
 articles = os.listdir("articles")
 articles = [[os.path.splitext(x)[0],frontmatter.load("articles/"+x)] for x in articles]
-articles.sort(key=lambda x: x[1].title)
+articles.sort(key=lambda x: x[1]["title"])
 for article in articles:
 	if article[1]["published"]:
 		with open("build/"+article[0]+".html","w") as f:
