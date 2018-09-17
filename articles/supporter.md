@@ -1,5 +1,4 @@
 ---
-author: minerobber
 published: true
 title: Supporter Plan
 description: The Neocities Supporter Plan

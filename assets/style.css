@@ -1,3 +1,21 @@
 * {
-	background-color: #aaa;
+	background-color: #53c399;
+	color: black;
+	font-family: Verdana;
+}
+
+div, div * {
+	background-color: white;
+}
+
+div {
+	max-width: 50%;
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+li {
+	text-align: left;
 }

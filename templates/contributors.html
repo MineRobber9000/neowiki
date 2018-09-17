@@ -1,0 +1,12 @@
+{% extends "article.html" %}
+{% block title %}{% endblock %}{# remove article title bit #}
+{% block ogptitle %}contributors | neowiki{% endblock %}
+{% block ogpurl %}contributors.html{% endblock %}{# remove article filename bit #}
+{% block ogpdesc %}The contributors to neowiki.{% endblock %}
+{% block body %}neowiki contributors</h1>
+<hr>
+<p>neowiki wouldn't exist if it weren't for these users!</p>
+<ul>{% for contributor in contributors %}
+<li><a href="//{{ contributor }}.neocities.org">{{ contributor }}</a></li>
+{% endfor %}</ul>
+{% endblock %}
