@@ -29,11 +29,7 @@ Using images in an article is OK, but there are some rules to follow.
 
 ## References
 
-If you reference something, make sure to link it. For example:
-
-    Reviewers on Neocities include [mariteaux](//mariteaux.neocities.org/), who does [music reviews](//mariteaux.neocities.org/reviews/reviews.html),
-    and [minerobber](//minerobber.neocities.org), who does [video game reviews](//minerobber.neocities.org/vgreviews/).
-
+If you reference something, make sure to link it.
 For people, unless they have a person page on neowiki, you should link their neocities site.
 
 ## People
