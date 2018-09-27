@@ -1,0 +1,21 @@
+language: "ruby"
+rvm:
+  - 2.5.1
+before_install:
+  - echo $(pwd)
+install:
+  - sudo gem install neocities
+  - sudo pip3 install -r requirements.txt
+  - mkdir -p $HOME/.config/neocities
+  - echo $APIKEY > $HOME/.config/neocities/config
+script:
+  - make
+  - neocities push build
+addons:
+  apt:
+    packages:
+      - python3
+      - python3-pip
+branches:
+  only:
+  - master
