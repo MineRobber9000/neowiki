@@ -7,7 +7,7 @@ install:
   - sudo gem install neocities
   - sudo pip3 install -r requirements.txt
   - mkdir -p $HOME/.config/neocities
-  - echo $APIKEY > $HOME/.config/neocities/config
+  - printf $APIKEY > $HOME/.config/neocities/config
 script:
   - make
   - neocities push build
