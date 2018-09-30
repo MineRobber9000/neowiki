@@ -14,8 +14,8 @@
 </head>
 <body>
 <div>
-<h1><img style="vertical-align:middle;width:50px;" src="logo.png">&nbsp;{% block body %}{{ article.title }}</h1>
-<p><a target="_blank" href="https://github.com/MineRobber9000/neowiki/edit/master/articles/{{ filename  }}.md">Edit this page</a></p>
+<h1><img style="vertical-align:middle;width:50px;" src="logo.png">&nbsp;{% block pagetitle %}{{ article.title }}{% endblock %}</h1>
+{% block body %}<p><a target="_blank" href="https://github.com/MineRobber9000/neowiki/edit/master/articles/{{ filename  }}.md">Edit this page</a></p>
 <hr>
 {{ article.content | markdown }}
 <hr>
