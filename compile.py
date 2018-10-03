@@ -19,7 +19,7 @@ contributors = config["contributors"].split(",")
 temp = env.get_template("article.html")
 
 if not os.path.exists("build"):
-	os.system("mkdir build; cp assets/* build")
+	os.system("mkdir build; cp -r assets/* build")
 
 articles = os.listdir("articles")
 articles = [[os.path.splitext(x)[0],frontmatter.load("articles/"+x)] for x in articles]
