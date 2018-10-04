@@ -12,7 +12,7 @@ as "https://minerobber.neocities.org/neowiki/". Eventually, in order to give him
 in order to allow others to work on neowiki if he wasn't around to update it on his site), he moved it to [its own subdomain](https://github.com/MineRobber9000/neowiki/pull/14),
 [realneowiki.neocities.org](//neocities.org/site/realneowiki), where it now resides.
 
-neowiki has a [Discord server][discord] and 5 buttons.
+neowiki has a [Discord server](https://discord.gg/NrNNpax) and 5 buttons.
 
 There are 3 buttons with a space theme, originally designed as a dawn (green) / day (blue) / dusk (dusk (dark blue)) rotation:
 
