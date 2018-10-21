@@ -4,7 +4,9 @@
 {% block ogpurl %}{% endblock %}{# remove article filename bit #}
 {% block ogpdesc %}A neocities wiki.{% endblock %}
 {% block pagetitle %}neowiki{% endblock %}
-{% block header %}<h2>a neocities wiki</h2>{% endblock %}
+{% block header %}<h2>a neocities wiki</h2>
+{% include "search.html" %}
+{% endblock %}
 {% block body %}<p>neowiki is a wiki for neocities users <a href="contributors.html">by neocities users!</a></p>
 <h3>Articles</h3>
 <ul>{% for article in articles %}{% if article[1].published %}

@@ -22,7 +22,7 @@
 {% block body %}{{ article.content | markdown }}
 <hr>
 <p><a href="./index.html">go back home</a></p>
-<p><iframe src="https://duckduckgo.com/search.html?site=realneowiki.neocities.org&prefill=Search neowiki" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe></p>
+{% include "search.html" %}
 {% endblock %}</div>
 </body>
 </html>
