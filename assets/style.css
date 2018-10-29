@@ -8,9 +8,12 @@ div, div * {
 	background-color: white;
 }
 
+.header {
+	text-align: center;
+}
+
 div {
 	max-width: 50%;
-	text-align: center;
 	margin: auto;
 	padding: 10px;
 	border-radius: 5px;

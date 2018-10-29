@@ -11,15 +11,20 @@
 <meta property='og:url' content='{{ pubdir }}{% block ogpurl %}{{ filename }}.html{% endblock %}'>
 <meta property='og:description' content='{% block ogpdesc %}{{ article.description }}{% endblock %}'>
 
+<meta property='viewport' value='width=device-width, inital-scale=1.0'>
+
 </head>
 <body>
 <div>
-<h1><img style="vertical-align:middle;width:50px;" src="logo.png">&nbsp;{% block body %}{{ article.title }}</h1>
-<p><a target="_blank" href="https://github.com/MineRobber9000/neowiki/edit/master/articles/{{ filename  }}.md">Edit this page</a></p>
+<span class="header">
+<h1><img style="vertical-align:middle;width:50px;" src="logo.png">&nbsp;{% block pagetitle %}{{ article.title }}{% endblock %}</h1>
+{% block header %}<p><a target="_blank" href="https://github.com/MineRobber9000/neowiki/edit/master/articles/{{ filename  }}.md">Edit this page</a></p>{% endblock %}
+</span>
 <hr>
-{{ article.content | markdown }}
+{% block body %}{{ article.content | markdown }}
 <hr>
-<a href="./index.html">go back home</a>
+<p><a href="./index.html">go back home</a></p>
+{% include "search.html" %}
 {% endblock %}</div>
 </body>
 </html>
