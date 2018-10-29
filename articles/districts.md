@@ -15,7 +15,7 @@ description: DMOZ, but it's Neocities.
  - (Arcadia)
  - (Silicon Valley)
  - (Tokyo)
- - (Arles)
+ - Arles is a district for "drawings, photos, [and] visual art". It features artists such as [Capy](https://gwtagacw.neocities.org/), [ily](https://ily.neocities.org/), as well as [MIA (aka punchy)](https://punchy.neocities.org/). To be included in this district, you must either be an artist or have a page that is a work of art itself.
  - (Stratford-upon-Avon)
  - (Silver Lake)
  - (Petsburg)
