@@ -10,7 +10,7 @@ description: DMOZ, but it's Neocities.
 
 (talk about staff)
 
-(introduce districts system, set up districts list for:)
+Neocities Districts splits the sites it catalogs into 10 (originally 8) categories called "districts" based on focus and interests. These districts include:
 
  - [Arcadia](https://districts.neocities.org/arcadia/) is a district for "video games, puzzles, [and] toys". It contains sites like [2-Bit](https://2bit.neocities.org/), [lancer502](https://lancer502.neocities.org/), and [mariteaux](https://mariteaux.neocities.org/). To be included in this district, you must have a site that has at least a decent portion of it dedicated to toys, games, or puzzles.
  - [Silicon Valley](https://districts.neocities.org/silicon-valley) is a district for "hardware, software, [and] programming". Named after a region located in California known for technological advances, it features sites such as [elementz](https://elementz.neocities.org), [dotcomboom](https://dotcomboom.neocities.org), and [joppiesaus](https://joppiesaus.neocities.org). To be included in this district, you must have hardware, programming, or software-related content on your site.
@@ -23,6 +23,6 @@ description: DMOZ, but it's Neocities.
   - Oxford is a district for "information, and education". Named after the university located in Oxford, England, it contains sites such as [Edlinfan](https://edlinfan.neocities.org/), [Days of Pride](https://daysofpride.neocities.org/), and [I Hate Carpet](https://ihatecarpet.neocities.org/). To be included in this district, you must have a decent portion of education or information-related content.
   - (Hollywood)
 
-(explain that Oxford and Hollywood were added [November 14, 2018](https://districts.neocities.org/updates/#nov04))
+The Oxford and Hollywood districts were added [November 14, 2018](https://districts.neocities.org/updates/#nov04). At the same time, Neocities Districts began to use AutoSite, a templating site engine created by their lead coder [dotcomboom](https://dotcomboom.neocities.org/).
 
 (explain that they have a discord server and trello board and give link)
