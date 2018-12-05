@@ -25,4 +25,4 @@ Neocities Districts splits the sites it catalogs into 10 (originally 8) categori
 
 The Oxford and Hollywood districts were added [November 14, 2018](https://districts.neocities.org/updates/#nov04). At the same time, Neocities Districts began to use AutoSite, a templating site engine created by their lead coder [dotcomboom](https://dotcomboom.neocities.org/).
 
-Neocities Districts used to have a Discord, but it was deleted [December 2nd](//districts.neocities.org/updates/#dec02) due to "admin exhaustion".
+Neocities Districts used to have a Discord, but it was deleted [December 2, 2018](//districts.neocities.org/updates/#dec02) due to "admin exhaustion".
