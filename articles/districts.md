@@ -4,7 +4,7 @@ title: Neocities Districts
 description: DMOZ, but it's Neocities.
 ---
 
-(intro)
+Neocities Districts is a catalog of Neocities sites, divided by topics. Sites can be in up to 2 categories. For example, [mariteaux](//mariteaux.neocities.org) is in [Arcadia](https://districts.neocities.org/arcadia/) and [Silver Lake](https://districts.neocities.org/silver-lake/), while [Project2](//project2.neocities.org) is in only [Silicon Valley](https://districts.neocities.org/silicon-valley).
 
 (history (paraphrase from about page if needed but don't actually do that that's bad), discuss Seb)
 
