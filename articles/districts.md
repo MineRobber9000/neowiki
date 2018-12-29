@@ -6,9 +6,11 @@ description: DMOZ, but it's Neocities.
 
 Neocities Districts [is/was](# "currently on hiatus") a catalog of Neocities sites, divided by topics. Sites can be in up to 2 categories. For example, [mariteaux](//mariteaux.neocities.org) is in [Arcadia](https://districts.neocities.org/arcadia/) and [Silver Lake](https://districts.neocities.org/silver-lake/), while [Project2](//project2.neocities.org) is in only [Silicon Valley](https://districts.neocities.org/silicon-valley).
 
-(history (paraphrase from about page if needed but don't actually do that that's bad), discuss Seb)
+(history (paraphrase from about page if needed but don't actually do that that's bad))
 
-(talk about staff)
+Sebastian (shortened to Seb) is the Districts mascot, said to be tasked with "[sorting all of the sites on Districts](https://districts.neocities.org/about/)". He is canonically [a blue-and-yellow armadillo with black square glasses](https://districts.neocities.org/images/staff/seb.png). [An entire section of the Districts site is dedicated to Seb fanart.](https://districts.neocities.org/fanart/)
+
+Districts has had 5 people who have ever been a part of their staff. [mariteaux](https://mariteaux.neocities.org/) is the passionate project lead of Neocities Districts, "coordinating efforts and working with the site markup" ([Districts about page](https://districts.neocities.org/about/)). His site is in the [Arcadia](https://districts.neocities.org/arcadia/) and [Silver Lake](https://districts.neocities.org/silver-lake/) districts.
 
 Neocities Districts splits the sites it catalogs into 10 (originally 8) categories called "districts" based on focus and interests. These districts include:
 
