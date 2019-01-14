@@ -19,5 +19,5 @@ There are frameworks to learn, like:
   - Min
   
 ## Tutorials
-Neocities has their own crash course on HTML, featuring Penelope the Cat. There are 10 parts, covering from putting text on a page, to making links. [Click here to redirect to the tutorials.](https://neocities.org/tutorial/html/1)
+Neocities has their own crash course on HTML, featuring Penelope the Cat. There are 10 parts, covering topics from putting text on a page, to making links. [Click here to redirect to the tutorials.](https://neocities.org/tutorial/html/1)
 As far as others go, such as JavaScript and CSS, Neocities does not have a tutorial on them, however they do provide resources on how to program JavaScript, and how to use CSS styles in your HTML page.
