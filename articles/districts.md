@@ -6,7 +6,7 @@ description: DMOZ, but it's Neocities.
 
 Neocities Districts [is/was](# "currently on hiatus") a catalog of Neocities sites, divided by topics. Sites can be in up to 2 categories. For example, [mariteaux](//mariteaux.neocities.org) is in [Arcadia][] and [Silver Lake][], while [Project2](//project2.neocities.org) is in only [Silicon Valley][].
 
-(history (paraphrase from about page if needed but don't actually do that that's bad))
+The URL for Districts was originally owned by dotcomboom, and the very first version of Districts was for Geocities neighborhoods, which was unsuccessful. When Hyperlink 1.0 died, Districts then was envisioned as moden-day DMOZ, and for this version, there was a prototype. This was also unsuccessful. Finally, lempamo decided to help with Districts around August of 2018, and that was when Districts went live and got successful. Capy, Cheren, and later dotcomboom decided to help out as well. Around October 2018 was the time Districts became public.
 
 Sebastian (shortened to Seb) is the Districts mascot, said to be tasked with "[sorting all of the sites on Districts](https://districts.neocities.org/about/)". He is canonically [a blue-and-yellow armadillo with black square glasses](https://districts.neocities.org/images/staff/seb.png). [An entire section of the Districts site is dedicated to Seb fanart.](https://districts.neocities.org/fanart/)
 
