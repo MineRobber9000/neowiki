@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Neocities Districts
 description: DMOZ, but it's Neocities.
 ---
